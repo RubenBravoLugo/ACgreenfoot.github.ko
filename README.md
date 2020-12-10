@@ -138,21 +138,22 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
  
 
 
-          
-          <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">edge-triggered-D-flip-flop</span></h2>
-         
-
-<a href="https://ibb.co/pZHTTZc"><img src="https://i.ibb.co/sQT44Qn/edge-triggered-D-flip-flop.png" alt="edge-triggered-D-flip-flop" border="0"></a>
+      
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Greenfoot turorials</span></h2>
 
 
+<a href="https://rubenbravolugo.github.io/1AXgreenfoottutorisl.github.io/">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fgreenfootteam&psig=AOvVaw3J7TqqRDuiDKj6x2GN4HLe&ust=1607706020482000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDagubxw-0CFQAAAAAdAAAAABAD" height="233" width="144"> </a>
 
 
-<h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Full-adder</span></h2>
+<h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Chapter 2</span></h2>
+
+<a href="https://docs.google.com/document/d/1c5DtxlFFCGP2huN3A19QEAAMo46tR-BjvWEeFTN66_o/edit?usp=sharing">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fgreenfootteam&psig=AOvVaw3J7TqqRDuiDKj6x2GN4HLe&ust=1607706020482000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDagubxw-0CFQAAAAAdAAAAABAD" height="233" width="144"> </a>
 
 
+<h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Chapter 3 </span></h2>
 
-
-<h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Full-adder</span></h2>
-
+<a href="https://docs.google.com/document/d/1N2D2lLvxYo1JjcVvXtpWDj4DYZO9MB6AXRJZ5gaMMEw/edit?usp=sharing">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fgreenfootteam&psig=AOvVaw3J7TqqRDuiDKj6x2GN4HLe&ust=1607706020482000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDagubxw-0CFQAAAAAdAAAAABAD" height="233" width="144"> </a>
