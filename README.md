@@ -144,16 +144,16 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 
 <a href="https://rubenbravolugo.github.io/1AXgreenfoottutorisl.github.io/">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fgreenfootteam&psig=AOvVaw3J7TqqRDuiDKj6x2GN4HLe&ust=1607706020482000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDagubxw-0CFQAAAAAdAAAAABAD" height="233" width="144"> </a>
+        <img src="https://pbs.twimg.com/profile_images/1122923068/greenfoot-square_400x400.jpg" height="233" width="144"> </a>
 
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Chapter 2</span></h2>
 
 <a href="https://docs.google.com/document/d/1c5DtxlFFCGP2huN3A19QEAAMo46tR-BjvWEeFTN66_o/edit?usp=sharing">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fgreenfootteam&psig=AOvVaw3J7TqqRDuiDKj6x2GN4HLe&ust=1607706020482000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDagubxw-0CFQAAAAAdAAAAABAD" height="233" width="144"> </a>
+        <img src="https://pbs.twimg.com/profile_images/1122923068/greenfoot-square_400x400.jpg" height="233" width="144"> </a>
 
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Chapter 3 </span></h2>
 
 <a href="https://docs.google.com/document/d/1N2D2lLvxYo1JjcVvXtpWDj4DYZO9MB6AXRJZ5gaMMEw/edit?usp=sharing">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fgreenfootteam&psig=AOvVaw3J7TqqRDuiDKj6x2GN4HLe&ust=1607706020482000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDagubxw-0CFQAAAAAdAAAAABAD" height="233" width="144"> </a>
+        <img src="https://pbs.twimg.com/profile_images/1122923068/greenfoot-square_400x400.jpg" height="233" width="144"> </a>
